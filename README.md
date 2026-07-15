@@ -60,6 +60,9 @@ People often ask what tools I use to create ascii art.  My main two tools are:
  - [https://fsymbols.com/generators/carty/](https://fsymbols.com/generators/carty/)
  - [http://artscene.textfiles.com/asciiart/](http://artscene.textfiles.com/asciiart/)
 
+## Ascii Art Libraries
+- [Asciitopia](https://github.com/flawnn/asciitopia) - Library of different animated ASCII patterns, ready for web & React apps.
+
 ## Collections of varying artists
 These are great to flip through for inspiration. I'm also not afraid to use another artists work if I think it's a perfect fit -- please always credit the artist by leaving their initials on the art!
  - [https://textart.sh/topic/calculator](https://textart.sh/topic/calculator)
